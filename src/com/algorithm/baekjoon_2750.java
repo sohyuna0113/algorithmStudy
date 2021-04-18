@@ -1,9 +1,10 @@
 package com.algorithm;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class baekjoon_2750 {
 
     public static void main(String[] args) {
 
@@ -22,4 +23,5 @@ public class Main {
         }
 
     }
+
 }
